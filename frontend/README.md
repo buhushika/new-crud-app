@@ -1,3 +1,7 @@
+# NOTE
+
+This project does not contain the primary key for firebase in the file(interview.json) as GitHub does not allow adding the primary key.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
